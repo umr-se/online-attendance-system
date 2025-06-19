@@ -84,3 +84,8 @@ To enable exporting attendance data to Google Sheets:
    - It will look like: `your-service-account@your-project.iam.gserviceaccount.com`
    - Give **Editor** access
 7. Add the following to your `.env` file:
+   
+![excel](https://github.com/user-attachments/assets/2e05ddf3-1f1a-4292-bf2d-a5f1834f40c5)
+![database](https://github.com/user-attachments/assets/6aea7504-84b3-4997-a6ee-02680ec6f4c6)
+
+
